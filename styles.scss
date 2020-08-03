@@ -1,0 +1,15 @@
+
+html , body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.main-bg{
+    background: url('./images/markos-mant-aSCx7M1E4Vo-unsplash.jpg');
+    background-size: cover;
+    .obs-time{
+     
+        bottom: 1rem;
+        text-align: center;
+    }
+}
